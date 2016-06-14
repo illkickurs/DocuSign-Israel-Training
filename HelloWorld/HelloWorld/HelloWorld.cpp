@@ -11,6 +11,7 @@ int main(int argc, char * argv[])
 
 	cout << "This line was added after the second commit was made to the Hello-World branch." << endl << endl;
 
+	cout << "Local change on Hello-World" << endl << endl;
 	return 0;
 }
 
